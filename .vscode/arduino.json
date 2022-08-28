@@ -1,0 +1,6 @@
+{
+    "configuration": "cpu=atmega2560",
+    "board": "arduino:avr:modelpro",
+    "sketch": "opt_ton_V3.ino",
+    "port": "/dev/tty.usbserial-14410"
+}
